@@ -3,6 +3,7 @@
 A **no-build** kanban board todo app
 
 Deployed at [KanDo](https://kando.kvrt.xyz)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/5234e6d2-a328-4edc-9e2f-26f83f951544/deploy-status)](https://app.netlify.com/sites/kan-do/deploys)
 
 ## Features
 
